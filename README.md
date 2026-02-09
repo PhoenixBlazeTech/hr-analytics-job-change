@@ -15,11 +15,18 @@ HR Analytics: Job Change of Data Scientists (Kaggle)
 - Power BI
 - GitHub
 
-## Methodology
-- Data preparation (ETL) and data cleaning using Excel and Power Query
-- Exploratory Data Analysis (EDA) in Excel
-- Descriptive and diagnostic analysis in Power BI
-- Documentation using data dictionary, checklist and changelog
+## Methodology / Workflow
+
+This project follows a structured data analysis workflow inspired by the Google Data Analytics process:
+
+1. Ask – Define the business problem and objectives
+2. Prepare – Data overview, data dictionary, and initial EDA
+3. Process – Data cleaning and transformation (Excel / Power Query)
+4. Analyze – Exploratory and descriptive analysis
+5. Share – Insights and visualizations (Power BI)
+6. Act – Conclusions and next steps
+The workflow is adapted to the scope and tools of this project.
+
 
 ## Repository Structure
 - data/raw: original dataset
